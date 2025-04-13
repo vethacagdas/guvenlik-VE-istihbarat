@@ -29,14 +29,7 @@ Bu proje özellikle Türkiye’mizin milli güvenliğini ilgilendiren istihbari 
 ## Hakkımda
 
 ### Bilgilerim:
-- Yazılım  
-- Siber Güvenlik  
-- İstihbarat  
-- Analiz  
-- Psikoloji / Sosyoloji  
-- Türk Tarihi  
-- Bilgisayar ve Öğretim Teknolojileri  
-- Makine Mühendisliği  
+
 
 ### Dillerim:
 - Türkçe (anadil)  
@@ -49,6 +42,14 @@ Bu proje özellikle Türkiye’mizin milli güvenliğini ilgilendiren istihbari 
 - Rusça  
 
 ### İlgi Alanlarım:
+- Yazılım  
+- Siber Güvenlik  
+- İstihbarat  
+- Analiz  
+- Psikoloji / Sosyoloji  
+- Türk Tarihi  
+- Bilgisayar ve Öğretim Teknolojileri  
+- Makine Mühendisliği  
 - Siyaset Bilimi ve Uluslararası İlişkiler  
 - Savunma Sanatları (Krav Maga ve Taekwondo)  
 - Su Altı Sporları (Tüplü Serbest Dalış)
