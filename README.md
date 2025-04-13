@@ -1,8 +1,9 @@
 # Güvenlik ve İstihbarat
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Turkey.png" alt="Türk Bayrağı" width="120"/>
+  <img src="turk-bayragi.png" alt="Türk Bayrağı" width="120"/>
 </p>
+
 
 
 Siber güvenlik alanında stratejik ve analitik makaleler.  
