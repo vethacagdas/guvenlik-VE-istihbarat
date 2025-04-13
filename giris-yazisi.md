@@ -1,7 +1,7 @@
 # Güvenli mi?
 
 İnsanoğlunun geçmişine dönüp baktığımızda, her ilerlemenin, her buluşun ve her yeni başlangıcın arkasında bir soru vardır:  
-**“Bu bizi daha güvende kılar mı?”**
+**“Bu bizim için güvenli mi?”**
 
 Toprağa ilk adım attığımızdan beri güvenlik, sadece bir ihtiyaç değil; aynı zamanda bir dürtü, bir refleks, bir varlık nedenidir.  
 Taş duvarlardan fiber ağlara, mağaradan sunuculara uzanan bu uzun yolculukta hep aynı şeyi aradık: **Korunmak.**  
