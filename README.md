@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="turk-bayragi.jpg" alt="Türk Bayrağı" width="140"/>
+  <img src="turk-bayragi.jpg" alt="Türk Bayrağı" width="250"/>
 </p>
 
 <h1 align="center"> Güvenlik ve İstihbarat</h1>
