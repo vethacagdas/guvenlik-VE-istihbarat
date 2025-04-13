@@ -1,30 +1,47 @@
-# Siber-Guvenlik-Makalelerim-CybersecurityArticles 
-Siber güvenlik alanında stratejik ve analitik makaleler. Strategic and analytical articles in the field of cyber security. Strategische und analytische Artikel im Bereich Cybersicherheit. Стратегические и аналитические статьи в области кибербезопасности.  مقالات إستراتيجية وتحليلية في مجال الأمن السيبراني. 
+# Güvenlik ve İstihbarat
 
-Bu proje özellikle Türkiyem'in milli güvenliğini ilgilendiren istihbarati ve siber tehditlerie karşı stratejiler geliştirme ve kamu kurumları için çözüm önerileri üretmek amacıyla oluşturulmuştur.
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Turkey.svg" alt="Türk Bayrağı" width="100"/>
 
 
-<<<<Bilgilerim:
+Siber güvenlik alanında stratejik ve analitik makaleler.  
+Strategic and analytical articles in the field of cyber security.  
+Strategische und analytische Artikel im Bereich Cybersicherheit.  
+Стратегические и аналитические статьи в области кибербезопасности.  
+مقالات إستراتيجية وتحليلية في مجال الأمن السيبراني.
 
-<<Dillerim:
-*Türkçe
-*Kürtçe
-*İngilizce
-*Almanca
-*Arapça
-*Farsça
-*İtalyanca
-*Rusça
+---
 
-<<İlgi alanlarım: 
-Yazılım
-Siber Güvenlik
-İstihbarat
-Analiz
-Psikoloji-Sosyoloji
-Türk Tarihi
-Bilgisayar ve Öğretim Teknolojileri
-Makine Mühendisliği
-Siyaset Bilimi ve Uluslararası İlişkiler
-Savunma Sanatları(Krav Maga ve Taekwondo)
-Su Altı Sporları(Tüplü serbest dalış)
+Bu proje özellikle Türkiye’mizin milli güvenliğini ilgilendiren istihbari ve siber tehditlere karşı stratejiler geliştirmek ve kamu kurumları için çözüm önerileri üretmek amacıyla oluşturulmuştur.
+
+---
+
+## Hakkımda
+
+### Bilgilerim:
+- Yazılım  
+- Siber Güvenlik  
+- İstihbarat  
+- Analiz  
+- Psikoloji / Sosyoloji  
+- Türk Tarihi  
+- Bilgisayar ve Öğretim Teknolojileri  
+- Makine Mühendisliği  
+
+### Dillerim:
+- Türkçe (anadil)  
+- Kürtçe  
+- İngilizce  
+- Almanca  
+- Arapça  
+- Farsça  
+- İtalyanca  
+- Rusça  
+
+### İlgi Alanlarım:
+- Siyaset Bilimi ve Uluslararası İlişkiler  
+- Savunma Sanatları (Krav Maga ve Taekwondo)  
+- Su Altı Sporları (Tüplü Serbest Dalış)
+
+---
+
+> Bu repodaki içerikler; milli güvenlik, dijital tehditler, devlet stratejileri ve istihbarat temelli analizleri içermektedir. Kod içermez. Bilgi, analiz ve strateji odaklıdır.
