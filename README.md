@@ -44,7 +44,8 @@ Bu proje özellikle Türkiye’mizin milli güvenliğini ilgilendiren istihbari 
 ### İlgi Alanlarım:
 - Yazılım  
 - Siber Güvenlik  
-- İstihbarat  
+- İstihbarat
+- Bilişsel Bilim 
 - Analiz  
 - Psikoloji / Sosyoloji  
 - Türk Tarihi  
