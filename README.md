@@ -33,8 +33,8 @@ Bu proje özellikle Türkiye’mizin milli güvenliğini ilgilendiren istihbari 
 
 ### Dillerim:
 - Türkçe (anadil)  
-- Kürtçe  
-- İngilizce  
+- Kürtçe (ikinci anadil)
+- İngilizce (C1-native olma sürecindeyim)
 - Almanca  
 - Arapça  
 - Farsça  
