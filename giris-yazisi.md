@@ -52,7 +52,7 @@ Bu projede;
 - **Geleneksel güvenlik anlayışını**,  
 - **Modern dijital tehditleri**,  
 - **Siber güvenliğin istihbaratla kesiştiği alanları**,  
-- Ve en önemlisi: **Türkiye’nin dijital bağımsızlığını** konu alacağım.
+- Ve en önemlisi: **Türkiye’min dijital bağımsızlığını** konu alacağım.
 
 Bu yazılar ne bir akademik rapor,  
 ne de bir politik manifestodur.
