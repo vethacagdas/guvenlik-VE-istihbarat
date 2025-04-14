@@ -58,15 +58,5 @@ Bu yazılar ne bir akademik rapor,
 ne de bir politik manifestodur.
 
 Bunlar bir vatandaşın, bir stratejistin, bir gözlemcinin  
-**devleti için tuttuğu notlardır.**
+**tuttuğu notlardır.**
 
----
-
-## Tarafsız Değilim, Bilinçliyim
-
-Evet, bu yazılarda bir tarafım var.  
-**Tarafım Türkiye Cumhuriyeti Devleti’dir.**
-
-Bu ülkenin bekası, huzuru ve dijital istikrarı için üretiyorum.  
-Ve bu üretimin her satırı,  
-**kendi aklımın, gözlemimin ve vicdanımın izidir.**
