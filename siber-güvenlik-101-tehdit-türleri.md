@@ -12,6 +12,10 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 **Örnek Olay:** 2020 yılında COVID-19 temalı sahte sağlık uyarı e-postalarıyla kullanıcıların banka bilgileri ele geçirildi.
 
+
+COVID-19 pandemisiyle birlikte sağlık otoriteleri gibi davranan saldırganlar, kullanıcıları sahte e-postalarla oltalama yöntemlerine maruz bırakmıştır. Bu e-postalarda genellikle “salgın haritası”, “karantina uyarısı” gibi içerikler yer almış, bağlantılar veya ek dosyalar aracılığıyla kötü amaçlı yazılım bulaştırılmıştır (Erdoğan & Öztürk, 2021, s. 82).
+
+
 **Korunma:** E-posta filtreleri kullanmak, linklere dikkat etmek, çok faktörlü doğrulama (MFA) kullanmak.
 
 
@@ -103,5 +107,5 @@ Siber tehditler artık sadece bilgi güvenliğini değil; devletlerin egemenliğ
 ---
 
 ## Kaynaklar
-
+Erdoğan, M., & Öztürk, M. S. (2021). COVID-19 pandemi sürecinde siber suçlar ve hileler. Bankacılık ve Finans Çalışmaları, (76), 76–88.
 
