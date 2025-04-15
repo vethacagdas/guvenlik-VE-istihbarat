@@ -23,7 +23,7 @@ Bu proje özellikle Türkiye’mizin milli güvenliğini ilgilendiren istihbari 
 
 ### Giriş Yazısı
 - [Güvenli mi?](giris-yazisi.md)
-- [Güvenli mi?](siber-güvenlik-101-tehdit-türleri.md)
+- [Siber Güvenlik 101: Tehdit Türleri](siber-güvenlik-101-tehdit-türleri.md)
 ---
 
 ## Hakkımda
