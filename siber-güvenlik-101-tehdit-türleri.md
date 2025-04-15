@@ -1,4 +1,4 @@
-# 🛡️ Siber Güvenlik 101: Tehdit Türleri
+# Siber Güvenlik 101: Tehdit Türleri
 
 ## Giriş
 
@@ -6,7 +6,7 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 ---
 
-## 1. 🎣 Kimlik Avı (Phishing)
+## 1. Kimlik Avı (Phishing)
 
 **Tanım:** Kullanıcılardan gizlice bilgi çalmak amacıyla güvenilir gibi görünen sahte e-posta, web sitesi veya mesajlarla yapılan saldırılardır.
 
@@ -14,11 +14,11 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 **Korunma:** E-posta filtreleri kullanmak, linklere dikkat etmek, çok faktörlü doğrulama (MFA) kullanmak.
 
-> 📎 [Kaspersky: Phishing Nedir?](https://www.kaspersky.com.tr/resource-center/threats/phishing) [1]
+
 
 ---
 
-## 2. 🦠 Kötü Amaçlı Yazılım (Malware)
+## 2. Kötü Amaçlı Yazılım (Malware)
 
 **Tanım:** Bilgisayar veya sistemlere zarar vermek ya da kontrol sağlamak için tasarlanmış yazılımlar.
 
@@ -30,11 +30,11 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 **Korunma:** Antivirüs yazılımları, yazılım güncellemeleri, güvenilir kaynaklardan dosya indirme.
 
-> 📎 [Altunok & Vural, 2021 – Kritik Altyapılarda Siber Güvenlik](https://dergipark.org.tr/tr/download/article-file/2029110) [2]
+
 
 ---
 
-## 3. 🔒 Fidye Yazılımı (Ransomware)
+## 3. Fidye Yazılımı (Ransomware)
 
 **Tanım:** Sistemlerdeki verileri şifreleyip, çözmek için fidye talep eden yazılımlar.
 
@@ -42,11 +42,11 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 **Korunma:** Veri yedekleme, sistem güncellemeleri, bilinçlendirme eğitimi.
 
-> 📎 [Hatipoğlu & Tunacan, 2021 – Türkiye'de Siber Saldırılar](https://dergipark.org.tr/en/download/article-file/2078359) [3]
+
 
 ---
 
-## 4. 🌐 Dağıtılmış Hizmet Reddi (DDoS) Saldırıları
+## 4. Dağıtılmış Hizmet Reddi (DDoS) Saldırıları
 
 **Tanım:** Sistemi aşırı trafikle meşgul ederek hizmet veremez hale getirme saldırısıdır.
 
@@ -54,11 +54,11 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 **Korunma:** Trafik analiz sistemleri, CDN kullanımı, firewall yapılandırmaları.
 
-> 📎 [Cyber Skills Hub – DDoS Nedir?](https://cyberskillshub.com/siber-saldiri-ornekleri) [4]
+
 
 ---
 
-## 5. 🕳️ Sıfır Gün Açıkları (Zero-Day Exploits)
+## 5. Sıfır Gün Açıkları (Zero-Day Exploits)
 
 **Tanım:** Yazılım üreticisi tarafından henüz keşfedilmemiş ya da yaması yapılmamış güvenlik açıklarını kullanan saldırılar.
 
@@ -66,11 +66,10 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 **Korunma:** Yazılım ve sistem güncellemeleri, tehdit izleme sistemleri.
 
-> 📎 [Khan et al., 2023 – Cybersecurity: Challenges & Future](https://www.sciencedirect.com/science/article/abs/pii/S1574013723000073) [5]
 
 ---
 
-## 6. 🧠 Sosyal Mühendislik (Social Engineering)
+## 6. Sosyal Mühendislik (Social Engineering)
 
 **Tanım:** İnsan psikolojisini kullanarak bilgi edinme ya da sistemlere erişim sağlama taktiğidir.
 
@@ -78,11 +77,11 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 **Korunma:** Çalışan eğitimleri, şüpheli davranışlara karşı uyarı sistemleri.
 
-> 📎 [Sağıroğlu & Akın, 2017 – APT ve Sosyal Mühendislik](https://dergipark.org.tr/en/pub/tbvinf/issue/31899/349126) [6]
+
 
 ---
 
-## 7. 🎯 Gelişmiş Sürekli Tehditler (APT)
+## 7. Gelişmiş Sürekli Tehditler (APT)
 
 **Tanım:** Uzun vadeli, hedefe özel saldırı planlayan ve genellikle devlet destekli hacker grupları tarafından yapılan saldırılar.
 
@@ -93,7 +92,7 @@ Her geçen gün dijitalleşen dünyamızda, tehditler sadece fiziksel değil, ar
 
 **Etkisi:** Uzun vadeli casusluk, altyapı sabotajı, stratejik veri sızıntısı.
 
-> 📎 [Murat Akın & Şeref Sağıroğlu – APT Üzerine Derinlemesine İnceleme](https://dergipark.org.tr/tr/pub/tbvinf/issue/31899/349126) [6]
+
 
 ---
 
@@ -103,12 +102,6 @@ Siber tehditler artık sadece bilgi güvenliğini değil; devletlerin egemenliğ
 
 ---
 
-## 📚 Kaynaklar
+## Kaynaklar
 
-[1] https://www.kaspersky.com.tr/resource-center/threats/phishing  
-[2] Altunok, E. & Vural, A. F. (2021). *Cybersecurity in Critical Infrastructure*, Bilişim Hukuku Dergisi.  
-[3] Hatipoğlu, C. & Tunacan, T. (2021). *Türkiye’de Siber Saldırılar Üzerine Literatür Taraması*.  
-[4] https://cyberskillshub.com/siber-saldiri-ornekleri  
-[5] Khan, M. A. et al. (2023). *Cyber Security: State of the Art*. Computer Science Review.  
-[6] Akın, M. & Sağıroğlu, Ş. (2017). *Advanced Persistent Threats*. Türkiye Bilişim Vakfı.
 
